@@ -1,1 +1,3 @@
--e## Cách sử dụng\n- Clone repository này.\n- Đọc file README để hiểu về dự án.
+## Cách sử dụng  
+- Clone repository này.  
+- Đọc file README để hiểu về dự án.  
